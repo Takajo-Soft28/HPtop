@@ -1,7 +1,7 @@
 
 |[MAP]()|
 |----|
-|[アトラクション](https://takajo-soft07.github.io/homepage/atraction)|
+|[アトラクション](https://takajo-soft07.github.io/homepage/attraction)|
 |[フード]()|
 |[チケット]()|
 |[ログイン]()|
