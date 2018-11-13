@@ -1,13 +1,5 @@
 
-|[MAP](https://takajo-soft07.github.io/homepage/atraction|
+|[アトラクションマップ](https://takajo-soft22.github.io/homepage/atraction)|
 |----|
-|[アトラクション](https://takajo-soft07.github.io/homepage/atraction)|
-|[フード](https://takajo-soft.github.io/)|
-|[チケット](https://takajo-soft.github.io/)|
-|[ログイン](https://takajo-soft.github.io/)|
-
-
-
-イベント情報  
-*　
-*
+|[フード](https://takajo-soft06.github.io/RPG-food/)|
+|[ログイン](https://takajo-soft36.github.io/RPG-rogin/)|
